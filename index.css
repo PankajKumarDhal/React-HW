@@ -1,0 +1,14 @@
+h1 {
+    color: blue;
+}
+u{
+    color: blue;
+}
+.details {
+    width: 300px;
+    box-sizing: border-box;
+    text-align: center;
+    border: 5px solid rgb(101, 228, 16);
+
+
+}
